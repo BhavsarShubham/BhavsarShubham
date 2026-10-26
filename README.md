@@ -5,7 +5,7 @@
 I build scalable web applications, cross-platform mobile experiences, and blockchain-powered solutions using modern technologies.
 
 - 💻 Focused on **React.js, Next.js, TypeScript & Node.js**
-- ⛓️ Experience with **BSV blockchain and smart contracts**
+- ⛓️ Experience with **Blockchain and smart contracts**
 - 📱 Building web and mobile applications with React Native
 - 🏆 **1st Place — Open Run Hackathon** (64 competing teams)
 - 🌐 Portfolio: [View My Portfolio](https://my-portfolio-dun-beta-21.vercel.app/)
@@ -46,7 +46,7 @@ I build scalable web applications, cross-platform mobile experiences, and blockc
 
 ## 🚀 Featured Projects
 
-### 🏆 BSV Stablecoin Platform
+### 🏆 Asset 21 Platform
 **React · TypeScript · BSV Smart Contracts**
 
 - Built a functional blockchain-backed stablecoin platform during a 48-hour hackathon.
