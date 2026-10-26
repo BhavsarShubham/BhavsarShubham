@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shubham Bhavsar 👋</h1>
+**<h1 align="center">Hi, I'm Shubham Bhavsar 👋</h1>
 
 <p align="center">
   <b>Frontend Engineer · React & TypeScript Developer · Web3 Builder</b>
@@ -71,15 +71,15 @@
 
 ## 💼 Featured Projects
 
-### 🏆 BSV Stablecoin Platform
+### 🏆 Asset 21 Platform
 
-**React · TypeScript · BSV Smart Contracts**
+**React · TypeScript**
 
 - Built a functional blockchain-backed stablecoin platform during a 48-hour hackathon.
 - Implemented minting, transferring, and digital asset management features.
 - 🥇 Won **1st place in Track 3** among 64 competing teams.
 
-🔗 [View Repository](https://github.com/BhavsarShubham)
+🔗 [View Repository](https://github.com/BhavsarShubham](https://github.com/shainilps/asset21-overlay))
 
 ---
 
@@ -143,3 +143,4 @@
 <p align="center">
   <i>Building useful products, writing clean code, and learning something new every day.</i>
 </p>
+**
